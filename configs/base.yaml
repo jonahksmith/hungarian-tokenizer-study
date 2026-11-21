@@ -1,0 +1,4 @@
+seed: 69
+models:
+  - SZTAKI-HLT/hubert-base-cc
+  - bert-base-multilingual-cased
